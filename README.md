@@ -1,2 +1,5 @@
 # MATEMATIKA-DISKRIT-MODULE-1
 LAPRAK 1
+Name : Syaddad Naseer
+Kelas :1B
+NIM : 260306047
